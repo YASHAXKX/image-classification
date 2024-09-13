@@ -1,3 +1,7 @@
+For an image classification project using SVM with an RBF kernel, heuristic fine-tuning is applied to optimize hyperparameters like C and gamma, improving model performance. The data processing involves Haar Cascade for object detection, enhancing relevant feature extraction, and wavelet transforms to capture both spatial and frequency information, boosting accuracy by focusing on multi-resolution analysis. This combination efficiently captures essential features for classification. The SVM, with its kernel trick, maps data to higher dimensions, while heuristic fine-tuning balances underfitting and overfitting. Overall, integrating these methods enhances the model’s ability to classify complex images accurately and efficiently.
+
+
+
 This is a face recognition project 
 
 To run this follow these steps:
